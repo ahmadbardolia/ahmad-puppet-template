@@ -1,0 +1,15 @@
+{
+  "name": "ahmad-template",
+  "version": "1.0.1",
+  "author": "No One",
+  "summary": "Its useless",
+  "license": "IDC",
+  "source": "git@github.com:ahmadbardolia/ahmad-puppet-template.git",
+  "project_page": "anywhere",
+  "issues_url": "hmmm",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
